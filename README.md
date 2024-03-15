@@ -21,6 +21,9 @@ This repository contains various C# programs demonstrating different concepts an
 
 Each program can be run independently by selecting the corresponding program number when prompted.
 
+Run The csharp.exe File
+To Edit Use csharp.cs
+
 ## Author
 
 - Name: Basavaraju B J
